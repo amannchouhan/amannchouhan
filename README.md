@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Chouhan</h1>
-<h3 align="center">Backend Developer with Expertise in Building Scalable, Secure, and Efficient Server-Side Web-Applications Using Modern Technologies.</h3>
+<h3 align="center">Backend Developer with Expertise in Building Scalable, Secure, and Efficient Server-Side Web-Applications Using Modern Technologies. Also Experienced in Frontend Technologies for Full Stack Solutions.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amannchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="amannchouhan" /> 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **advanced Django REST APIs, Docker, and AWS**
 
-- 👯 I’m looking to collaborate on **open-source Python backend projects**
+- 👯 I’m looking to collaborate on **open-source Full Stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amannchouhan](https://github.com/amannchouhan)
 
-- 💬 Ask me about **Python, Django, REST APIs, JWT Authentication, and SQL**
+- 💬 Ask me about **Python, Django, REST APIs, JWT Authentication, SQL, and Frontend Integrations**
 
 - 📫 How to reach me **[aman.chouhan.it@gmail.com](mailto:aman.chouhan.it@gmail.com)**
 
@@ -24,14 +24,24 @@
 ---
 
 ## 🛠️ Languages and Tools:
+### 🔹 Backend:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</p>
+
+### 🔹 Frontend:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
